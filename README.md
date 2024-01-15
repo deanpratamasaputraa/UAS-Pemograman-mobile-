@@ -2060,4 +2060,13 @@ public class RomanceFragment extends Fragment {
 </RelativeLayout>
 
 
+# HASIL RUN
+
+
+
+https://github.com/deanpratamasaputraa/UAS-Pemograman-mobile-/assets/120002341/7e253715-24ba-4680-ae73-d91e2780f7c8
+
+
+
+
 # SEKIAN
