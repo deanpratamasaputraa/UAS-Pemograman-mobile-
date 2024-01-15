@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">DEAN APPS</string>
+
+    <string name="map">Show Map</string>
+
+    <string name="project_hello">Project Hello World</string>
+    <string name="project_count">Project Count</string>
+    <string name="project_sianida">Project Sianida</string>
+    <string name="project_twoactivity">Project TwoActivity</string>
+    <string name="project_set_alarm">Project Set Alarm</string>
+
+    <string name="Tab_1">Action</string>
+    <string name="Tab_2">Horror</string>
+    <string name="Tab_3">Comedy</string>
+
+
+    <string name="hello_text">Hello World!</string>
+
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="button_label_finish">Reset</string>
+    <string name="enter_fibonacci_limit">Masukan Limit Angka</string>
+
+    <string name="button_label_toast">Deskripsi</string>
+    <string name="toast_message">Project Count</string>
+
+    <string name="button_main">Send</string>
+    <string name="text_header_reply">Message Received</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="text_header">Reply Received</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+
+    <string name="article_title">Kasus Sianida</string>
+    <string name="article_subtitle">ICE COLD!</string>
+
+    <string name="article_teks">Kasus kopi sianida berawal dari pertemuan Jessica Wongso, Mirna, dan Hanie Boon Juwita di Kafe Olivier Grand Indonesia (GI) pada 6 Januari 2016. Jessica datang lebih dahulu dan memesan tempat dilayani resepsionis Cindy yang menawarkan meja nomor 54.
+
+Lalu, ia pergi dan kembali lagi membawa tas kertas, kemudian memesan es kopi Vietnam serta dua koktail. Setelah ia membayar, penyaji mengantarkan minuman ke meja 54. \n\n
+
+
+Beberapa menit kemudian, Mirna dan Hani datang secara bersamaan. Mirna meminum es kopi Vietnam dan mengatakan rasanya tidak enak sambil mengibaskan tangan di depan mulutnya.\n\n
+
+
+Tidak lama kemudian, tubuh Mirna kejang, tidak sadarkan diri, dan mengeluarkan buih dari mulut. Mirna langsung dibawa ke klinik di GI. Kemudian, suami Mirna, Arief Soemarko datang membawanya ke Rumah Sakit (RS) Abdi Waluyo ditemani Jessica dan Hanie.
+
+Namun, nyawa Mirna tidak terselamatkan. Ayah Mirna, Edi Dharmawan Salihin langsung melaporkan kematian anaknya ke Polsek Metro Tanah Abang karena dianggap tidak wajar.\n
+
+
+Tiga hari setelah kematian, Direktur Reserse Kriminal Umum Polda Metro Jaya, Krishna Murti meminta izin kepada ayahnya agar diautopsi. Namun, jenazah hanya diizinkan untuk diambil sampel dari bagian tubuhnya dan menemukan zat racun. Lalu, pada 10 Januari 2016, jenazah Mirna dimakamkan di Gunung Gadung, Bogor.\n\n
+
+
+<b>Pra-rekonstruksi dan penetapan tersangka</b>\n
+
+Mengacu Antara, satu hari setelah Mirna dikubur, polisi melangsungkan pra-rekonstruksi di Kafe Olivier yang menghadirkan Jessica, Hanie, dan pegawai Olivier. Setelah itu, Puslabfor Mabes Polri mengumumkan, ada sianida dalam kopi dan lambung Mirna.
+
+Penyidik Polisi kemudian memanggil Jessica dan keluarga Mirna, yaitu Dharmawan, Sendy Salihin (saudari kembarnya), serta Arief. Penyidik melakukan gelar perkara, menetapkan Jessica sebagai tersangka pembunuhan, dan menangkapnya di sebuah hotel Jakarta Utara.</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first">Action</string>
+    <string name="second">Comedy</string>
+    <string name="third">Romance</string>
+
+
+    <string name="movies">MOVIES</string>
+
+    <string name="action1">Extraction</string>
+    <string name="action2">Top Gun: Maverick</string>
+    <string name="action3">Tenet</string>
+    <string name="action4">Spider-Man: Far from Home</string>
+    <string name="sinopsisa1">In an underworld of weapons dealers and traffickers, a young boy becomes the pawn in a war between notorious drug lords. Trapped by kidnappers inside one of the world\'s most impenetrable cities, his rescue beckons the unparalleled skill of a mercenary named Tyler Rake, but Rake is a broken man with nothing to lose, harboring a death wish that makes an already deadly mission near impossible.</string>
+    <string name="sinopsisa2">Set 30 years after its predecessor, it follows Maverick\'s return to the United States Navy Strike Fighter Tactics Instructor program (also known as U.S. Navy-Fighter Weapons School - \"TOPGUN\"), where he must confront his past as he trains a group of younger pilots, among them the son of Maverick\'s deceased best friend Lieutenant Nick \"Goose\" Bradshaw, USN.</string>
+    <string name="sinopsisa3">In a twilight world of international espionage, an unnamed CIA operative, known as The Protagonist, is recruited by a mysterious organization called Tenet to participate in a global assignment that unfolds beyond real time. The mission: prevent Andrei Sator, a renegade Russian oligarch with precognitive abilities, from starting World War III. The Protagonist will soon master the art of \"time inversion\" as a way of countering the threat that is to come.</string>
+    <string name="sinopsisa4">Our friendly neighborhood Super Hero decides to join his best friends Ned, MJ, and the rest of the gang on a European vacation. However, Peter\'s plan to leave super heroics behind for a few weeks are quickly scrapped when he begrudgingly agrees to help Nick Fury uncover the mystery of several elemental creature attacks, creating havoc across the continent.</string>
+    <string name="ratinga1">6.8</string>
+    <string name="ratinga2">8.3</string>
+    <string name="ratinga3">7.3</string>
+    <string name="ratinga4">7.4</string>
+
+    <string name="comedy1">We\'re the Millers</string>
+    <string name="comedy2">The Hangover</string>
+    <string name="comedy3">Good Boys</string>
+    <string name="comedy4">The Dictator</string>
+    <string name="sinopsisc1">After being robbed of a week\'s take, small-time pot dealer David is forced by his boss to go to Mexico to pick up a load of marijuana. In order to improve his odds of making it past the border, David asks the broke stripper Rose and two local teenagers to join him and pretend they\'re on a family holiday.</string>
+    <string name="sinopsisc2">Angelenos Doug Billings and Tracy Garner are about to get married. Two days before the wedding, the four men in the wedding party - Doug, Doug\'s two best buddies Phil Wenneck and Stu Price, and Tracy\'s brother Alan Garner - hop into Tracy\'s father\'s beloved Mercedes convertible for a 24-hour stag party to Las Vegas.</string>
+    <string name="sinopsisc3">Invited to his first kissing party, 12-year-old Max asks his best friends Lucas and Thor for some much-needed help on how to pucker up. When they hit a dead end, Max decides to use his father\'s drone to spy on the teenage girls next door. When the boys lose the drone, they skip school and hatch a plan to retrieve it before Max\'s dad can figure out what happened.</string>
+    <string name="sinopsisc4">The Republic of Wadiya is ruled by an eccentric and oppressive leader named Hafez Aladeen. Aladeen is summoned to New York to a UN assembly to address concerns about his country\'s nuclear weapons program, but the trip goes awry.</string>
+    <string name="ratingc1">7.0</string>
+    <string name="ratingc2">7.7</string>
+    <string name="ratingc3">6.7</string>
+    <string name="ratingc4">6.4</string>
+
+    <string name="romance1">Love &amp; Other Drugs</string>
+    <string name="romance2">The Lucky One</string>
+    <string name="romance3">Through My Windows</string>
+    <string name="romance4">La La Land</string>
+    <string name="sinopsisr1">Maggie (Hathaway) is an alluring free spirit who won\'t let anyone - or anything - tie her down. But she meets her match in Jamie (Gyllenhaal), whose relentless and nearly infallible charm serve him well with the ladies and in the cutthroat world of pharmaceutical sales. Maggie and Jamie\'s evolving relationship takes them both by surprise, as they find themselves under the influence of the ultimate drug: love.</string>
+    <string name="sinopsisr2">Logan is a marine serving in Iraq. While there, he finds a photo of a girl with \"keep safe\" written on the back. He is admiring it when his unit is attacked. He survives and credits the photo for saving him. He tries to find the owner but can\'t, assuming he was killed. When he goes back to the States, he finds it difficult to adjust and is still haunted by what happened. Analyzing the photo, he finds in the background a landmark that tells him she is in Louisiana.</string>
+    <string name="sinopsisr3">Raquel is madly and irrevocably in love with Ares, her attractive and mysterious neighbour. The thing is, she has watched him from afar because, much to her dismay, they haven\'t exchanged a single word. But Raquel has a very clear mission: to make Ares fall in love with her. However, she is not an innocent, helpless girl and she is certainly not prepared to lose everything to achieve her goal, most importantly not herself.</string>
+    <string name="sinopsisr4">Aspiring actress serves lattes to movie stars in between auditions and jazz musician Sebastian scrapes by playing cocktail-party gigs in dingy bars. But as success mounts, they are faced with decisions that fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.</string>
+    <string name="ratingr1">6.7</string>
+    <string name="ratingr2">6.4</string>
+    <string name="ratingr3">5.5</string>
+    <string name="ratingr4">8.0</string>
+
+</resources>
